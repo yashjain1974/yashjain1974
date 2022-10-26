@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashjain1974
 - 👀 I’m interested in programming and doing competitive one....
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently working on my college Minor project. 
 - 💞️ I’m looking to collaborate on internship with IT company
 
 <!---
