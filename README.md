@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashjain1974
 - 👀 I’m interested in programming and doing competitive one....
-- 🌱 I’m currently working on my college Minor project. 
-- 💞️ I’m looking to collaborate on internship with IT company
+- 🌱 I’m currently looking for open source projects. 
+- 💞️ I’m looking to collaborate on internship and full time role with IT company.
 
 <!---
 yashjain1974/yashjain1974 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
